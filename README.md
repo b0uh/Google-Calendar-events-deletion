@@ -1,6 +1,6 @@
 # Google Calendar events deletion
 
-This script helps you to delete your Google Calendar events.
+This script helps you to delete your Google Calendar passed events.
 
 
 ## Getting Started
@@ -8,9 +8,9 @@ This script helps you to delete your Google Calendar events.
 ### Set up Google Calendar API credentials
 - Go to [https://developers.google.com/calendar/quickstart/python](https://developers.google.com/calendar/quickstart/python)
 - Click on "Enable the Google Calendar API" and choose "Desktop app"
-- Click on "download client configuration" and save the file `credentials.json` next to the python script.
+- Click on "Download client configuration" and save the file `credentials.json` next to the python script.
 
-### Installing
+### Installion
 
 ```
 python -m pip install -r requirements.txt
